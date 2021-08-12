@@ -2,3 +2,5 @@ if [ -f arquivo ]
   then
       echo "Arquivo Existe no servidor"
 fi
+
+Proxima aula 3
